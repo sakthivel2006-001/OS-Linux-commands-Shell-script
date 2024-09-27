@@ -1,6 +1,6 @@
 
-#NAME: S.SAKTHIVEL
-#REGISTER NO:212223220090
+# NAME: S.SAKTHIVEL
+# REGISTER NO:212223220090
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
